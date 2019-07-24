@@ -1284,7 +1284,7 @@ input:focus {
       -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
       right: 1700px; } }
   .clouds img.cloud-2 {
-    top: 50px;
+    top: 150px;
     -webkit-animation: cloud-2 35s linear 6s infinite;
     animation: cloud-2 35s linear 6s infinite;
     opacity: 0;
