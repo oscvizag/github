@@ -1133,8 +1133,8 @@ input:focus {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 80px;
     flex: 0 0 80px;
-    max-width: 80px;
-    width: 80px; }
+    max-width: 200px;
+    width: 190px; }
     @media only screen and (max-width: 767px) {
       .single-feature-area .feature-icon {
         -webkit-box-flex: 0;
@@ -3026,7 +3026,9 @@ input:focus {
       letter-spacing: 2px; }
   .single-testimonial-area:hover .testimonial-content, .single-testimonial-area:focus .testimonial-content {
     background-color: #1c66de; }
-    .single-testimonial-area:hover .testimonial-content h5, .single-testimonial-area:focus .testimonial-content h5 {
+    .single-testimonial-area:hover .testimonial-content h5, .single-testimonial-area:focus .testimonial-content h5,
+.single-testimonial-area:hover .testimonial-content p, .single-testimonial-area:focus .testimonial-content p,
+.single-testimonial-area:hover .testimonial-content i, .single-testimonial-area:focus .testimonial-content i	{
       color: #ffffff; }
 
 /* :: 22.0 Widget Area CSS */
